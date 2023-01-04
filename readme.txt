@@ -1,0 +1,1 @@
+Completed tasks are placed in separate directories.

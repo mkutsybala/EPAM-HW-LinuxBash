@@ -1,0 +1,1 @@
+0-59 * * * * /home/mk/EPAM/DevOpsEssential/HW/LinuxBash/task3/task3.sh /home/mk/EPAM/DevOpsEssential/HW/LinuxBash/task3/forsynch /home/mk/EPAM/DevOpsEssential/HW/LinuxBash/task3/backup

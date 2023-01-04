@@ -1,0 +1,3 @@
+- task3.sh is a shell script that synchronizes two directories. Synch directory is the first argument, backup directory is the second argument.
+- mk file's path is "/var/spool/cron/mk"
+- crontab task was added with the command "crontab -e"
